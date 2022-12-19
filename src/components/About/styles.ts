@@ -56,14 +56,14 @@ export const Container = styled.section`
   @media only screen and (max-width: 480px) {
     .about-image {
       max-width: 100%;
-      margin-top: 4rem;
+      margin-top: 0;
     }
   }
 
   @media (max-width: 960px) {
     display: block;
     text-align: center;
-    margin-top: unset;
+    margin-top: 0;
 
     .about-image {
       display: flex;
@@ -71,5 +71,9 @@ export const Container = styled.section`
     .hard-skills {
       justify-content: center;
     }
+  }
+
+  @media only screen and (max-width: 1366px) {
+    margin-top: 0;
   }
 `;
