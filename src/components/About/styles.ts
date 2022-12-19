@@ -63,7 +63,7 @@ export const Container = styled.section`
   @media (max-width: 960px) {
     display: block;
     text-align: center;
-    margin-top: 0;
+    margin-top: unset;
 
     .about-image {
       display: flex;
