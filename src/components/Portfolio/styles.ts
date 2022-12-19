@@ -87,7 +87,7 @@ export const Container = styled.section`
     }
   }
 
-  @media (max-width: 1024px) {
+  @media (max-width: 1180px) {
     .projects {
       grid-template-columns: repeat(2, 1fr);
     }
@@ -99,8 +99,23 @@ export const Container = styled.section`
     }
   }
 
-  @media (max-width: 740px) {
+  @media (max-width: 820px) {
     .projects {
+      grid-template-columns: 1fr;
+      padding: inherit;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .projects {
+      grid-template-columns: 1fr;
+      padding: inherit;
+    }
+  }
+
+  @media (max-width: 667px) {
+    .projects {
+      display: inline-grid;
       grid-template-columns: 1fr;
       padding: inherit;
     }
