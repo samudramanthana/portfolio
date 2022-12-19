@@ -6,7 +6,7 @@ import jsIcon from "../../assets/js-icon.svg";
 import nodeIcon from "../../assets/node-icon.svg";
 import reactIcon from "../../assets/react-icon.svg";
 import phpIcon from "../../assets/php-icon.svg";
-import profile from "../../assets/profile.png";
+import profile from "../../assets/about.png";
 import ScrollAnimation from "react-animate-on-scroll";
 
 export function About() {
