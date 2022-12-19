@@ -52,9 +52,7 @@ export function Portfolio() {
                 Codeigniter 3)
               </p>
               <p>
-                <small className="badges">
-                  Client: Milou Farm House Restaurant
-                </small>
+                <small className="badges">Milou Farm House Restaurant</small>
               </p>
             </div>
             <footer>
@@ -104,9 +102,7 @@ export function Portfolio() {
                 Codeigniter 3)
               </p>
               <p>
-                <small className="badges">
-                  Client: Milou Farm House Restaurant
-                </small>
+                <small className="badges">Milou Farm House Restaurant</small>
               </p>
             </div>
             <footer>
@@ -164,7 +160,7 @@ export function Portfolio() {
               </p>
               <p>
                 <small className="badges">
-                  Client: Kurnia Teknologi Indonesia (KTI)
+                  Kurnia Teknologi Indonesia (KTI)
                 </small>
               </p>
             </div>
@@ -223,7 +219,7 @@ export function Portfolio() {
                 Framework Codeigniter 3)
               </p>
               <p>
-                <small className="badges">Client: Meet Medical (MeetMed)</small>
+                <small className="badges">Meet Medical (MeetMed)</small>
               </p>
             </div>
             <footer>
@@ -281,9 +277,7 @@ export function Portfolio() {
                 CodeIgniter 3 Framework.
               </p>
               <p>
-                <small className="badges">
-                  Client: Milou Farm House Restaurant
-                </small>
+                <small className="badges">Milou Farm House Restaurant</small>
               </p>
             </div>
             <footer>
@@ -341,9 +335,7 @@ export function Portfolio() {
               </p>
             </div>
             <p>
-              <small className="badges">
-                Client: Milou Farm House Restaurant
-              </small>
+              <small className="badges">Milou Farm House Restaurant</small>
             </p>
             <footer>
               <ul className="tech-list">

@@ -87,6 +87,12 @@ export const Container = styled.section`
     }
   }
 
+  @media (max-width: 1024px) {
+    .projects {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
   @media (max-width: 960px) {
     .projects {
       grid-template-columns: 1fr 1fr;
@@ -96,6 +102,7 @@ export const Container = styled.section`
   @media (max-width: 740px) {
     .projects {
       grid-template-columns: 1fr;
+      padding: inherit;
     }
   }
 `;
