@@ -14,7 +14,7 @@ export function About() {
     <Container id="about">
       <div className="about-text">
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
-          <h2>About Me</h2>
+          <h2>About Me!</h2>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>
